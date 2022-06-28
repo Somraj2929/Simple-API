@@ -1,0 +1,17 @@
+{
+  "name": "api-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Somraj",
+  "license": "MIT",
+  "dependencies": {
+    "config": "^3.3.7",
+    "controllers": "^0.0.2",
+    "express": "^4.18.1",
+    "routers": "^0.1.4"
+  }
+}
